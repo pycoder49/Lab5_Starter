@@ -4,7 +4,8 @@ Lab partners: None <br>
 Just me: Aryan Ahuja <br>
 
 Expose Section page: [expose](expose.html) <br>
-Explore Section page: [explore](explore.html)
+Explore Section page: [explore](explore.html) <br>
+Github Pages: [the website](https://pycoder49.github.io/Lab5_Starter/)
 
 Explore questions:
 1. No, you shouldn't use unit testing for this specifically since sending a message unvolves other parts of the page to fully verify its functionality. It's not a small test anymore and lies outside of the "small tasks" scope.
