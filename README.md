@@ -3,4 +3,4 @@
 Lab partners: None <br>
 Just me: Aryan Ahuja <br>
 
-[expose.html](expose.html)
+Expose Section page: [expose](expose.html)
